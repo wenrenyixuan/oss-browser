@@ -115,9 +115,9 @@ cnpm i -g windows-build-tools
 
 - 还需要下载 make.exe，放到 `C:\windows\` 目录下
 
-[make.exe(64 位版本)](http://luogc.oss-cn-hangzhou.aliyuncs.com/oss-browser-publish/windows-tools/64/make.exe)
+[make.exe(64 位版本)](/tools/make-x64.exe)
 
-[make.exe(32 位版本)](http://luogc.oss-cn-hangzhou.aliyuncs.com/oss-browser-publish/windows-tools/32/make.exe)
+[make.exe(32 位版本)](/tools/make-x32.exe)
 
 ### (4) 下载代码
 
